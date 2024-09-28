@@ -4,7 +4,7 @@
 I’m a software engineer who adds to the passion for technologies the wisdom and the experience without losing the wonder for the world. I love to create new projects and to help people and teams to improve.
 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![niqt's Stats](https://github-readme-stats.vercel.app/api?username=niqt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
