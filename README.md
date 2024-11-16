@@ -9,9 +9,9 @@ I’m a software engineer who adds to the passion for technologies the wisdom an
 ## 🚀 About Me
 
 - 🔭 I'm working like Senior Software Engineer.
-- 📝 I write articles on my website [nicoladefilippo.com](https://nicoladefilippo.com) and my SwiftUI blog [swiftui.blog] (https://www.swiftui.blog) 
+- 📝 I write articles on my website [nicoladefilippo.com](https://nicoladefilippo.com) and my SwiftUI blog [swiftui.blog](https://www.swiftui.blog) 
 - ✍️ Content writer at [Medium](https://nicoladefilippo.medium.com/).
-- 📤 Creator of the newsletter [swiftuiblog.substack.com] (https://swiftuiblog.substack.com)
+- 📤 Creator of the newsletter [swiftuiblog.substack.com](https://swiftuiblog.substack.com)
 
 ## Tech Stack
 - C and C++
