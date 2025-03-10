@@ -32,7 +32,6 @@ I’m a software engineer who adds to the passion for technologies the wisdom an
   - OCaml.
 
 ## 💤 Dreams
-- Create a company
 - Create my Operating System
 
 ## 📬 Get in Touch
